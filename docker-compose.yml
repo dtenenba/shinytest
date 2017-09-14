@@ -2,7 +2,7 @@ version: '2'
 
 services:
 
-  dashboard:
+  shinytest:
     image: rocker/shiny
     ports:
       - "3838:3838"
