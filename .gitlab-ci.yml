@@ -1,1 +1,5 @@
 image: "rocker/shiny"
+
+test:
+  script:
+    - echo there are no tests
